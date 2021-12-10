@@ -1,4 +1,3 @@
-#include <DHT11.h>
 #include <Display.h>
 #include <TM1637Display.h>
 
